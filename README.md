@@ -58,4 +58,10 @@ All materials in this repository are shared under the
 **Creative Commons Attribution CC0-1.0 license** License,  
 unless otherwise stated.
 
+---
+cv/Cho_Frederick_Nchang_CV.pdf
+cv/README.md
+Curriculum Vitae – Frederick Nchang Cho
+
+
 You are free to share and adapt the materials with appropriate attribution.
