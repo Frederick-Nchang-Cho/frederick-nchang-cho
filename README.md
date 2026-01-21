@@ -55,7 +55,7 @@ Teaching materials and outlines are available in the
 
 ## License
 All materials in this repository are shared under the  
-**Creative Commons Attribution 4.0 International (CC BY 4.0)** License,  
+**Creative Commons Attribution CC0-1.0 license** License,  
 unless otherwise stated.
 
 You are free to share and adapt the materials with appropriate attribution.
